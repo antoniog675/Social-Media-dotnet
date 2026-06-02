@@ -1,0 +1,11 @@
+/Users/antonio/RiderProjects/Social-Media/Domain/bin/Debug/net9.0/Domain.deps.json
+/Users/antonio/RiderProjects/Social-Media/Domain/bin/Debug/net9.0/Domain.dll
+/Users/antonio/RiderProjects/Social-Media/Domain/bin/Debug/net9.0/Domain.pdb
+/Users/antonio/RiderProjects/Social-Media/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonio/RiderProjects/Social-Media/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/Users/antonio/RiderProjects/Social-Media/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/Users/antonio/RiderProjects/Social-Media/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/Users/antonio/RiderProjects/Social-Media/Domain/obj/Debug/net9.0/Domain.dll
+/Users/antonio/RiderProjects/Social-Media/Domain/obj/Debug/net9.0/refint/Domain.dll
+/Users/antonio/RiderProjects/Social-Media/Domain/obj/Debug/net9.0/Domain.pdb
+/Users/antonio/RiderProjects/Social-Media/Domain/obj/Debug/net9.0/ref/Domain.dll

@@ -1,0 +1,15 @@
+/Users/antonio/RiderProjects/Social-Media/Infrastructure/bin/Debug/net9.0/Infrastructure.deps.json
+/Users/antonio/RiderProjects/Social-Media/Infrastructure/bin/Debug/net9.0/Infrastructure.dll
+/Users/antonio/RiderProjects/Social-Media/Infrastructure/bin/Debug/net9.0/Infrastructure.pdb
+/Users/antonio/RiderProjects/Social-Media/Infrastructure/bin/Debug/net9.0/Domain.dll
+/Users/antonio/RiderProjects/Social-Media/Infrastructure/bin/Debug/net9.0/Domain.pdb
+/Users/antonio/RiderProjects/Social-Media/Infrastructure/obj/Debug/net9.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/antonio/RiderProjects/Social-Media/Infrastructure/obj/Debug/net9.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonio/RiderProjects/Social-Media/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/antonio/RiderProjects/Social-Media/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfo.cs
+/Users/antonio/RiderProjects/Social-Media/Infrastructure/obj/Debug/net9.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/antonio/RiderProjects/Social-Media/Infrastructure/obj/Debug/net9.0/Infrastr.15EFFBFE.Up2Date
+/Users/antonio/RiderProjects/Social-Media/Infrastructure/obj/Debug/net9.0/Infrastructure.dll
+/Users/antonio/RiderProjects/Social-Media/Infrastructure/obj/Debug/net9.0/refint/Infrastructure.dll
+/Users/antonio/RiderProjects/Social-Media/Infrastructure/obj/Debug/net9.0/Infrastructure.pdb
+/Users/antonio/RiderProjects/Social-Media/Infrastructure/obj/Debug/net9.0/ref/Infrastructure.dll
